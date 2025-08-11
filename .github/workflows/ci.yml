@@ -32,3 +32,5 @@ jobs:
           tags: |
             alade01/emailservice:latest
             alade01/emailservice:${{ github.sha }}
+
+
